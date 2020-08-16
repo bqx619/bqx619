@@ -4,6 +4,6 @@
 ### Hi there 👋
 
 > 🔭 I currently work at home. </br>
-> 👯 I am seeking cooperation in blockchain projects. </br>
+
 
 
